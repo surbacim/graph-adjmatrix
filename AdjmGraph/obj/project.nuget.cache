@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gRND5AnWtFbrmLur/zLnOLRShIqKa/eIFQNVGtHVBVZRx8f45OJTU0RW1xkI17vKbxZHg/LFwpq7q9fSKWOX7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\source\\repos\\AdjmGraph\\AdjmGraph\\AdjmGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

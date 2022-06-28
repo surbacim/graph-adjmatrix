@@ -1,0 +1,13 @@
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.exe
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.deps.json
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.runtimeconfig.json
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.runtimeconfig.dev.json
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.dll
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\bin\Debug\netcoreapp3.1\AdjmGraph.pdb
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.dll
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.pdb
+C:\Users\Юрий\source\repos\AdjmGraph\AdjmGraph\obj\Debug\netcoreapp3.1\AdjmGraph.genruntimeconfig.cache
